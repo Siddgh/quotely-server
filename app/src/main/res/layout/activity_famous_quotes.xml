@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="sid.com.quotelyserver.FamousQuotes">
+
+    <Button
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnFQ02"
+        android:text="PUSH FQ 02"
+        android:textColor="@color/colorWhite"
+        android:textStyle="bold"
+        />
+    <Button
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnFQ03"
+        android:text="PUSH FQ 03"
+        android:textColor="@color/colorWhite"
+        android:textStyle="bold"
+        />
+    <Button
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnFQ04"
+        android:text="PUSH FQ 04"
+        android:textColor="@color/colorWhite"
+        android:textStyle="bold"
+        />
+    <Button
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnFQ05"
+        android:text="PUSH FQ 05"
+        android:textColor="@color/colorWhite"
+        android:textStyle="bold"
+        />
+    <Button
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnFQ06"
+        android:text="PUSH FQ 06"
+        android:textColor="@color/colorWhite"
+        android:textStyle="bold"
+        />
+    <Button
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnFQ07"
+        android:text="PUSH FQ 07"
+        android:textColor="@color/colorWhite"
+        android:textStyle="bold"
+        />
+    <Button
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnFQ08"
+        android:text="PUSH FQ 08"
+        android:textColor="@color/colorWhite"
+        android:textStyle="bold"
+        />
+    <Button
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnFQ09"
+        android:text="PUSH FQ 09"
+        android:textColor="@color/colorWhite"
+        android:textStyle="bold"
+        />
+    <Button
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnFQ10"
+        android:text="PUSH FQ 10"
+        android:textColor="@color/colorWhite"
+        android:textStyle="bold"
+        />
+
+
+</LinearLayout>

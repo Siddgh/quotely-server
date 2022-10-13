@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="sid.com.quotelyserver.Home">
+
+
+    <Button
+        android:id="@+id/btn_migrate"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnMigrate"
+        android:text="Push Quotes to Realtime"
+        android:textColor="@color/colorWhite"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/btn_qotd"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnQuoteOfTheWeek"
+        android:text="QUOTE OF THE WEEK"
+        android:textColor="@color/colorWhite"
+        android:textStyle="bold"
+        />
+
+    <Button
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnFQ"
+        android:text="FAMOUSE QUOTES"
+        android:textColor="@color/colorWhite"
+        android:textStyle="bold"
+        />
+
+    <Button
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnNotifications"
+        android:text="NOTIFICATIONS"
+        android:textColor="@color/colorWhite"
+        android:textStyle="bold"
+        />
+
+
+</LinearLayout>

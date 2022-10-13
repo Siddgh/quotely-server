@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#22252A</color>
+    <color name="colorPrimary">#2D3035</color>
+    <color name="colorControlHighlight">#B6B6B6</color>
+
+    <color name="colorMovies">#FF4A1C</color>
+    <color name="colorTvshows">#23CE6B</color>
+    <color name="colorBooks">#E8C547</color>
+    <color name="colorAnimes">#0197F6</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorDullWhite">#D0CCCC</color>
+
+    <color name="colorPrimaryDarkTransparency">#b122252A</color>
+    <color name="colorPrimaryDark40Transparency">#6622252A</color>
+
+    <color name="colorAmazonOrange">#F9A51B</color>
+    <color name="colorLinkedInBlue">#2377B7</color>
+
+    <color name="ShadowTransparent">#80000000</color>
+
+</resources>

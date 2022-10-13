@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="sid.com.quotelyserver.Notifications">
+
+
+    <Button
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnNotifyQuotePusher"
+        android:text="QUOTE PUSHER"
+        android:textColor="@color/colorWhite"
+        android:textStyle="bold"
+        />
+
+    <Button
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnNotifyQuoteContributions"
+        android:text="QUOTE CONTRIBUTIONS"
+        android:textColor="@color/colorWhite"
+        android:textStyle="bold"
+        />
+
+    <Button
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnNotifyRecentlyAdded"
+        android:text="RECENTLY ADDED"
+        android:textColor="@color/colorWhite"
+        android:textStyle="bold"
+        />
+
+
+</LinearLayout>
